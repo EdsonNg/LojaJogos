@@ -17,8 +17,20 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\img\\acao.png",
+      "PackagePath": "staticwebassets\\img\\acao.png"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\img\\fundo.jpg",
+      "PackagePath": "staticwebassets\\img\\fundo.jpg"
+    },
+    {
       "Id": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\img\\login.png",
       "PackagePath": "staticwebassets\\img\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\img\\luta.png",
+      "PackagePath": "staticwebassets\\img\\luta.png"
     },
     {
       "Id": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\img\\robo.png",

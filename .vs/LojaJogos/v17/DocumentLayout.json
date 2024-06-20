@@ -7,28 +7,32 @@
       "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\controllers\\clientecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\controllers\\clientecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:controllers\\clientecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|C:\\Users\\2mod\\Desktop\\LojaJogos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|c:\\users\\2mod\\desktop\\lojajogos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDCFEF2A-5716-4D05-9218-3CD526059464}|LojaJogos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T18:22:14.169Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -48,33 +65,33 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\wwwroot\\css\\site.css",
               "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-06-13T18:02:58.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-13T17:13:50.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBMAAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-13T17:11:35.126Z",
               "EditorCaption": ""
@@ -94,39 +111,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "ClienteController1.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Controllers\\ClienteController1.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteController1.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Controllers\\ClienteController1.cs",
               "RelativeToolTip": "Controllers\\ClienteController1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T17:08:04.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "Views\\Home\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwCkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-13T17:06:07.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\2mod\\Desktop\\LojaJogos\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAUAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T17:00:03.535Z",
               "EditorCaption": ""

@@ -2,11 +2,16 @@
 
 namespace LojaJogos.Controllers
 {
-    public class ClienteController1 : Controller
-    {
-        public IActionResult Index()
-        {
-            return View();
-        }
-    }
+	public class ClienteController1 : Controller
+	{
+		public IActionResult Index()
+		{
+			return View();
+	
+		}
+		public IActionResult Login()
+		{
+			return View();
+		}
+	}
 }

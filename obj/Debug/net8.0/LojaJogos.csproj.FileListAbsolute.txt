@@ -28,3 +28,4 @@ C:\Users\2mod\Desktop\LojaJogos\obj\Debug\net8.0\refint\LojaJogos.dll
 C:\Users\2mod\Desktop\LojaJogos\obj\Debug\net8.0\LojaJogos.pdb
 C:\Users\2mod\Desktop\LojaJogos\obj\Debug\net8.0\LojaJogos.genruntimeconfig.cache
 C:\Users\2mod\Desktop\LojaJogos\obj\Debug\net8.0\ref\LojaJogos.dll
+C:\Users\2mod\Desktop\LojaJogos\obj\Debug\net8.0\LojaJogos.sourcelink.json
